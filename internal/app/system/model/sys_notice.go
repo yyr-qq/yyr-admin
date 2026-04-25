@@ -12,7 +12,7 @@ package model
 import (
 	"github.com/gogf/gf/v2/os/gtime"
 	"github.com/gogf/gf/v2/util/gmeta"
-	comModel "github.com/tiger1103/gfast/v3/internal/app/common/model"
+	comModel "github.com/yyr-qq/yyr-admin/v3/internal/app/common/model"
 )
 
 // SysNoticeInfoRes is the golang structure for table sys_notice.

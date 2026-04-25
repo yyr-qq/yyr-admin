@@ -10,10 +10,10 @@ package cache
 import (
 	"github.com/gogf/gf/v2/frame/g"
 	"github.com/gogf/gf/v2/os/gctx"
-	"github.com/tiger1103/gfast-cache/adapter"
-	"github.com/tiger1103/gfast-cache/cache"
-	"github.com/tiger1103/gfast/v3/internal/app/common/consts"
-	"github.com/tiger1103/gfast/v3/internal/app/common/service"
+	"github.com/yyr-qq/yyr-admin/v3/internal/app/common/consts"
+	"github.com/yyr-qq/yyr-admin/v3/internal/app/common/service"
+	"github.com/yyr-qq/yyr-cache/adapter"
+	"github.com/yyr-qq/yyr-cache/cache"
 )
 
 func init() {

@@ -11,15 +11,16 @@ package logic
 
 import (
 	"context"
+
 	"github.com/gogf/gf/v2/os/gtime"
 
 	"github.com/gogf/gf/v2/frame/g"
-	"github.com/tiger1103/gfast/v3/internal/app/system/consts"
-	"github.com/tiger1103/gfast/v3/internal/app/system/dao"
-	"github.com/tiger1103/gfast/v3/internal/app/system/model"
-	"github.com/tiger1103/gfast/v3/internal/app/system/model/do"
-	"github.com/tiger1103/gfast/v3/internal/app/system/service"
-	"github.com/tiger1103/gfast/v3/library/liberr"
+	"github.com/yyr-qq/yyr-admin/v3/internal/app/system/consts"
+	"github.com/yyr-qq/yyr-admin/v3/internal/app/system/dao"
+	"github.com/yyr-qq/yyr-admin/v3/internal/app/system/model"
+	"github.com/yyr-qq/yyr-admin/v3/internal/app/system/model/do"
+	"github.com/yyr-qq/yyr-admin/v3/internal/app/system/service"
+	"github.com/yyr-qq/yyr-admin/v3/library/liberr"
 )
 
 func init() {

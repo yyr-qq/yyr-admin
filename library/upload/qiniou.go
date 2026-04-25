@@ -2,14 +2,15 @@ package upload
 
 import (
 	"context"
+	"path"
+
 	"github.com/gogf/gf/v2/errors/gerror"
 	"github.com/gogf/gf/v2/frame/g"
 	"github.com/gogf/gf/v2/net/ghttp"
 	"github.com/gogf/gf/v2/util/guid"
 	"github.com/qiniu/go-sdk/v7/auth/qbox"
 	"github.com/qiniu/go-sdk/v7/storage"
-	"github.com/tiger1103/gfast/v3/internal/app/common/model"
-	"path"
+	"github.com/yyr-qq/yyr-admin/v3/internal/app/common/model"
 )
 
 type Qiniou struct{}

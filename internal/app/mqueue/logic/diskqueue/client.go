@@ -13,16 +13,17 @@ import (
 	"encoding/binary"
 	"errors"
 	"fmt"
-	"github.com/gogf/gf/v2/frame/g"
-	"github.com/gogf/gf/v2/os/gctx"
-	"github.com/gogf/gf/v2/util/grand"
-	"github.com/tiger1103/gfast/v3/internal/app/mqueue/consts"
-	disk "github.com/tiger1103/gfast/v3/internal/app/mqueue/driver"
-	"github.com/tiger1103/gfast/v3/internal/app/mqueue/model"
 	"io"
 	"os"
 	"sync"
 	"time"
+
+	"github.com/gogf/gf/v2/frame/g"
+	"github.com/gogf/gf/v2/os/gctx"
+	"github.com/gogf/gf/v2/util/grand"
+	"github.com/yyr-qq/yyr-admin/v3/internal/app/mqueue/consts"
+	disk "github.com/yyr-qq/yyr-admin/v3/internal/app/mqueue/driver"
+	"github.com/yyr-qq/yyr-admin/v3/internal/app/mqueue/model"
 )
 
 func logger(ctx context.Context) disk.AppLogFunc {

@@ -3,6 +3,7 @@ package cmd
 import (
 	"context"
 	"fmt"
+
 	"github.com/gogf/gf/v2/encoding/gbase64"
 	"github.com/gogf/gf/v2/frame/g"
 	"github.com/gogf/gf/v2/net/ghttp"
@@ -10,9 +11,9 @@ import (
 	"github.com/gogf/gf/v2/os/gcmd"
 	"github.com/gogf/gf/v2/os/glog"
 	"github.com/gogf/gf/v2/text/gstr"
-	"github.com/tiger1103/gfast/v3/internal/consts"
-	"github.com/tiger1103/gfast/v3/internal/mounter"
-	"github.com/tiger1103/gfast/v3/internal/router"
+	"github.com/yyr-qq/yyr-admin/v3/internal/consts"
+	"github.com/yyr-qq/yyr-admin/v3/internal/mounter"
+	"github.com/yyr-qq/yyr-admin/v3/internal/router"
 )
 
 var (

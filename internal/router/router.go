@@ -9,12 +9,13 @@ package router
 
 import (
 	"context"
+
 	"github.com/gogf/gf/v2/net/ghttp"
-	commonRouter "github.com/tiger1103/gfast/v3/internal/app/common/router"
-	commonService "github.com/tiger1103/gfast/v3/internal/app/common/service"
-	mqueueRouter "github.com/tiger1103/gfast/v3/internal/app/mqueue/router"
-	systemRouter "github.com/tiger1103/gfast/v3/internal/app/system/router"
-	"github.com/tiger1103/gfast/v3/library/libRouter"
+	commonRouter "github.com/yyr-qq/yyr-admin/v3/internal/app/common/router"
+	commonService "github.com/yyr-qq/yyr-admin/v3/internal/app/common/service"
+	mqueueRouter "github.com/yyr-qq/yyr-admin/v3/internal/app/mqueue/router"
+	systemRouter "github.com/yyr-qq/yyr-admin/v3/internal/app/system/router"
+	"github.com/yyr-qq/yyr-admin/v3/library/libRouter"
 )
 
 var R = new(Router)

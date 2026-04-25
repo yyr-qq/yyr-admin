@@ -7,7 +7,8 @@ package service
 
 import (
 	"context"
-	"github.com/tiger1103/gfast/v3/internal/app/common/model"
+
+	"github.com/yyr-qq/yyr-admin/v3/internal/app/common/model"
 
 	"github.com/gogf/gf/v2/net/ghttp"
 )

@@ -2,8 +2,9 @@ package system
 
 import (
 	"fmt"
+
 	"github.com/gogf/gf/v2/frame/g"
-	"github.com/tiger1103/gfast/v3/internal/app/system/model"
+	"github.com/yyr-qq/yyr-admin/v3/internal/app/system/model"
 )
 
 type DbInitIsInitReq struct {

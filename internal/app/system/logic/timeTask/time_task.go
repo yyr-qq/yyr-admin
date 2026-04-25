@@ -8,9 +8,10 @@
 package timeTask
 
 import (
-	"github.com/tiger1103/gfast/v3/internal/app/system/model"
-	"github.com/tiger1103/gfast/v3/internal/app/system/service"
 	"sync"
+
+	"github.com/yyr-qq/yyr-admin/v3/internal/app/system/model"
+	"github.com/yyr-qq/yyr-admin/v3/internal/app/system/service"
 )
 
 func init() {

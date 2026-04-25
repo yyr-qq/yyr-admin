@@ -15,10 +15,10 @@ import (
 	"github.com/gogf/gf/v2/os/gtime"
 	"github.com/gogf/gf/v2/util/guid"
 	"github.com/gorilla/websocket"
-	commonController "github.com/tiger1103/gfast/v3/internal/app/common/controller"
-	"github.com/tiger1103/gfast/v3/internal/app/system/service"
-	"github.com/tiger1103/gfast/v3/library/libUtils"
-	"github.com/tiger1103/gfast/v3/library/libWebsocket"
+	commonController "github.com/yyr-qq/yyr-admin/v3/internal/app/common/controller"
+	"github.com/yyr-qq/yyr-admin/v3/internal/app/system/service"
+	"github.com/yyr-qq/yyr-admin/v3/library/libUtils"
+	"github.com/yyr-qq/yyr-admin/v3/library/libWebsocket"
 )
 
 var R = new(Router)

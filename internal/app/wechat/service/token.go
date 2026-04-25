@@ -11,7 +11,7 @@ import (
 	"context"
 
 	"github.com/gogf/gf/v2/net/ghttp"
-	"github.com/tiger1103/gfast-token/gftoken"
+	"github.com/yyr-qq/yyr-token/gftoken"
 )
 
 type IGfToken interface {

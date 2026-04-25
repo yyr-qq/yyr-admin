@@ -2,6 +2,12 @@ package upload
 
 import (
 	"context"
+	"io"
+	"net/http"
+	"net/url"
+	"strconv"
+	"strings"
+
 	"github.com/gogf/gf/v2/errors/gerror"
 	"github.com/gogf/gf/v2/frame/g"
 	"github.com/gogf/gf/v2/net/ghttp"
@@ -10,12 +16,7 @@ import (
 	"github.com/gogf/gf/v2/util/grand"
 	"github.com/tencentyun/cos-go-sdk-v5"
 	"github.com/tencentyun/cos-go-sdk-v5/debug"
-	"github.com/tiger1103/gfast/v3/internal/app/common/model"
-	"io"
-	"net/http"
-	"net/url"
-	"strconv"
-	"strings"
+	"github.com/yyr-qq/yyr-admin/v3/internal/app/common/model"
 )
 
 type Tencent struct {

@@ -7,7 +7,7 @@
 
 package common
 
-import "github.com/tiger1103/gfast/v3/internal/app/common/model"
+import "github.com/yyr-qq/yyr-admin/v3/internal/app/common/model"
 
 // PageReq 公共请求参数
 type PageReq struct {

@@ -10,10 +10,11 @@ package controller
 import (
 	"context"
 	"errors"
-	"github.com/gogf/gf/v2/frame/g"
-	"github.com/tiger1103/gfast/v3/api/v1/common"
-	"github.com/tiger1103/gfast/v3/internal/app/common/service"
 	"time"
+
+	"github.com/gogf/gf/v2/frame/g"
+	"github.com/yyr-qq/yyr-admin/v3/api/v1/common"
+	"github.com/yyr-qq/yyr-admin/v3/internal/app/common/service"
 )
 
 var Captcha = captchaController{}

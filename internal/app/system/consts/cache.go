@@ -7,7 +7,7 @@
 
 package consts
 
-import commonConsts "github.com/tiger1103/gfast/v3/internal/app/common/consts"
+import commonConsts "github.com/yyr-qq/yyr-admin/v3/internal/app/common/consts"
 
 const (
 	// CacheSysAuthMenu 缓存菜单key

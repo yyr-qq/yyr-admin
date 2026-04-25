@@ -8,7 +8,7 @@
 package model
 
 import (
-	"github.com/tiger1103/gfast/v3/internal/app/mqueue/consts"
+	"github.com/yyr-qq/yyr-admin/v3/internal/app/mqueue/consts"
 )
 
 type MQConsumerHandlerCallback func(m *MQMessage) error

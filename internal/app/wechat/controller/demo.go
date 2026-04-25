@@ -9,7 +9,8 @@ package controller
 
 import (
 	"context"
-	"github.com/tiger1103/gfast/v3/api/v1/wechat"
+
+	"github.com/yyr-qq/yyr-admin/v3/api/v1/wechat"
 )
 
 var Demo = new(demoController)
@@ -18,7 +19,7 @@ type demoController struct {
 	BaseController
 }
 
-func (c *demoController) Demo(ctx context.Context,req *wechat.DemoReq)(res *wechat.DemoRes,err error){
+func (c *demoController) Demo(ctx context.Context, req *wechat.DemoReq) (res *wechat.DemoRes, err error) {
 	res = &wechat.DemoRes{Info: "hello word"}
 	return
 }

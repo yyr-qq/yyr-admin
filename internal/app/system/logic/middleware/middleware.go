@@ -19,13 +19,13 @@ import (
 	"github.com/gogf/gf/v2/os/gtime"
 	"github.com/gogf/gf/v2/text/gstr"
 	"github.com/gogf/gf/v2/util/gconv"
-	commonService "github.com/tiger1103/gfast/v3/internal/app/common/service"
-	"github.com/tiger1103/gfast/v3/internal/app/system/consts"
-	"github.com/tiger1103/gfast/v3/internal/app/system/model"
-	"github.com/tiger1103/gfast/v3/internal/app/system/model/entity"
-	"github.com/tiger1103/gfast/v3/internal/app/system/service"
-	"github.com/tiger1103/gfast/v3/library/libResponse"
-	"github.com/tiger1103/gfast/v3/library/liberr"
+	commonService "github.com/yyr-qq/yyr-admin/v3/internal/app/common/service"
+	"github.com/yyr-qq/yyr-admin/v3/internal/app/system/consts"
+	"github.com/yyr-qq/yyr-admin/v3/internal/app/system/model"
+	"github.com/yyr-qq/yyr-admin/v3/internal/app/system/model/entity"
+	"github.com/yyr-qq/yyr-admin/v3/internal/app/system/service"
+	"github.com/yyr-qq/yyr-admin/v3/library/libResponse"
+	"github.com/yyr-qq/yyr-admin/v3/library/liberr"
 )
 
 func init() {

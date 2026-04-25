@@ -8,7 +8,7 @@
 package boot
 
 import (
-	_ "github.com/tiger1103/gfast/v3/internal/app/common/logic"
-	_ "github.com/tiger1103/gfast/v3/internal/app/mqueue/logic"
-	_ "github.com/tiger1103/gfast/v3/internal/app/system/logic"
+	_ "github.com/yyr-qq/yyr-admin/v3/internal/app/common/logic"
+	_ "github.com/yyr-qq/yyr-admin/v3/internal/app/mqueue/logic"
+	_ "github.com/yyr-qq/yyr-admin/v3/internal/app/system/logic"
 )

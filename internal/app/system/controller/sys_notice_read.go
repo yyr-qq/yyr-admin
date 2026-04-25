@@ -12,8 +12,8 @@ package controller
 import (
 	"context"
 
-	"github.com/tiger1103/gfast/v3/api/v1/system"
-	"github.com/tiger1103/gfast/v3/internal/app/system/service"
+	"github.com/yyr-qq/yyr-admin/v3/api/v1/system"
+	"github.com/yyr-qq/yyr-admin/v3/internal/app/system/service"
 )
 
 type sysNoticeReadController struct {

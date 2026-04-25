@@ -11,6 +11,7 @@ import (
 	"context"
 	"errors"
 	"fmt"
+
 	"github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/auth/response"
 	resp "github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/phoneNumber/response"
 	"github.com/gogf/gf/v2/crypto/gmd5"
@@ -18,12 +19,12 @@ import (
 	"github.com/gogf/gf/v2/frame/g"
 	"github.com/gogf/gf/v2/os/gctx"
 	"github.com/gogf/gf/v2/util/gconv"
-	"github.com/tiger1103/gfast/v3/api/v1/wechat"
-	systemModel "github.com/tiger1103/gfast/v3/internal/app/system/model"
-	systemService "github.com/tiger1103/gfast/v3/internal/app/system/service"
-	"github.com/tiger1103/gfast/v3/internal/app/wechat/service"
-	"github.com/tiger1103/gfast/v3/library/libUtils"
-	"github.com/tiger1103/gfast/v3/library/liberr"
+	"github.com/yyr-qq/yyr-admin/v3/api/v1/wechat"
+	systemModel "github.com/yyr-qq/yyr-admin/v3/internal/app/system/model"
+	systemService "github.com/yyr-qq/yyr-admin/v3/internal/app/system/service"
+	"github.com/yyr-qq/yyr-admin/v3/internal/app/wechat/service"
+	"github.com/yyr-qq/yyr-admin/v3/library/libUtils"
+	"github.com/yyr-qq/yyr-admin/v3/library/liberr"
 )
 
 var Login = new(loginController)

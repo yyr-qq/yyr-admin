@@ -22,13 +22,13 @@ import (
 	"github.com/gogf/gf/v2/text/gregex"
 	"github.com/gogf/gf/v2/text/gstr"
 	"github.com/gogf/gf/v2/util/gconv"
-	"github.com/tiger1103/gfast/v3/internal/app/common/consts"
-	"github.com/tiger1103/gfast/v3/internal/app/common/model"
-	"github.com/tiger1103/gfast/v3/internal/app/common/model/entity"
-	"github.com/tiger1103/gfast/v3/internal/app/common/service"
-	"github.com/tiger1103/gfast/v3/library/libUtils"
-	"github.com/tiger1103/gfast/v3/library/liberr"
-	"github.com/tiger1103/gfast/v3/library/upload"
+	"github.com/yyr-qq/yyr-admin/v3/internal/app/common/consts"
+	"github.com/yyr-qq/yyr-admin/v3/internal/app/common/model"
+	"github.com/yyr-qq/yyr-admin/v3/internal/app/common/model/entity"
+	"github.com/yyr-qq/yyr-admin/v3/internal/app/common/service"
+	"github.com/yyr-qq/yyr-admin/v3/library/libUtils"
+	"github.com/yyr-qq/yyr-admin/v3/library/liberr"
+	"github.com/yyr-qq/yyr-admin/v3/library/upload"
 )
 
 func init() {

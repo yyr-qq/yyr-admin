@@ -9,10 +9,11 @@ package liberr
 
 import (
 	"context"
+
 	"github.com/gogf/gf/v2/errors/gcode"
 	"github.com/gogf/gf/v2/errors/gerror"
 	"github.com/gogf/gf/v2/frame/g"
-	"github.com/tiger1103/gfast/v3/internal/consts"
+	"github.com/yyr-qq/yyr-admin/v3/internal/consts"
 )
 
 func ErrIsNil(ctx context.Context, err error, msg ...string) {

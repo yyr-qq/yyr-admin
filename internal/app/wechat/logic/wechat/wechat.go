@@ -9,6 +9,7 @@ package wechat
 
 import (
 	"context"
+
 	"github.com/ArtisanCloud/PowerWeChat/v3/src/kernel"
 	"github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram"
 	"github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/auth/response"
@@ -18,7 +19,7 @@ import (
 	"github.com/gogf/gf/v2/errors/gerror"
 	"github.com/gogf/gf/v2/frame/g"
 	"github.com/gogf/gf/v2/os/gctx"
-	"github.com/tiger1103/gfast/v3/internal/app/wechat/service"
+	"github.com/yyr-qq/yyr-admin/v3/internal/app/wechat/service"
 )
 
 func init() {

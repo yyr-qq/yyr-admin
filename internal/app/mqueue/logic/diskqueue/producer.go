@@ -9,9 +9,10 @@ package diskqueue
 
 import (
 	"context"
+
 	"github.com/gogf/gf/v2/frame/g"
-	"github.com/tiger1103/gfast/v3/internal/app/mqueue/consts"
-	"github.com/tiger1103/gfast/v3/internal/app/mqueue/service"
+	"github.com/yyr-qq/yyr-admin/v3/internal/app/mqueue/consts"
+	"github.com/yyr-qq/yyr-admin/v3/internal/app/mqueue/service"
 )
 
 type producer struct {

@@ -10,18 +10,19 @@ package controller
 import (
 	"context"
 	"fmt"
+	"math"
+
 	"github.com/gogf/gf/v2/errors/gerror"
 	"github.com/gogf/gf/v2/frame/g"
 	"github.com/gogf/gf/v2/net/ghttp"
 	"github.com/gogf/gf/v2/util/gconv"
-	"github.com/tiger1103/gfast/v3/api/v1/system"
-	commonConsts "github.com/tiger1103/gfast/v3/internal/app/common/consts"
-	"github.com/tiger1103/gfast/v3/internal/app/common/model"
-	commonService "github.com/tiger1103/gfast/v3/internal/app/common/service"
-	"github.com/tiger1103/gfast/v3/internal/app/system/consts"
-	"github.com/tiger1103/gfast/v3/internal/app/system/service"
-	"github.com/tiger1103/gfast/v3/library/libUtils"
-	"math"
+	"github.com/yyr-qq/yyr-admin/v3/api/v1/system"
+	commonConsts "github.com/yyr-qq/yyr-admin/v3/internal/app/common/consts"
+	"github.com/yyr-qq/yyr-admin/v3/internal/app/common/model"
+	commonService "github.com/yyr-qq/yyr-admin/v3/internal/app/common/service"
+	"github.com/yyr-qq/yyr-admin/v3/internal/app/system/consts"
+	"github.com/yyr-qq/yyr-admin/v3/internal/app/system/service"
+	"github.com/yyr-qq/yyr-admin/v3/library/libUtils"
 )
 
 var UEditor = new(uEditorController)

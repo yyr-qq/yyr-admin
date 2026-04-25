@@ -9,7 +9,7 @@ package wechat
 
 import (
 	"github.com/gogf/gf/v2/frame/g"
-	"github.com/tiger1103/gfast/v3/api/v1/common"
+	"github.com/yyr-qq/yyr-admin/v3/api/v1/common"
 )
 
 type DemoReq struct {

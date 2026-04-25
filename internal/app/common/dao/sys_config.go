@@ -5,7 +5,7 @@
 package dao
 
 import (
-	"github.com/tiger1103/gfast/v3/internal/app/common/dao/internal"
+	"github.com/yyr-qq/yyr-admin/v3/internal/app/common/dao/internal"
 )
 
 // sysConfigDao is the data access object for table sys_config.

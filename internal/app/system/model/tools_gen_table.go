@@ -11,7 +11,7 @@ import (
 	"github.com/gogf/gf/v2/container/gmap"
 	"github.com/gogf/gf/v2/frame/g"
 	"github.com/gogf/gf/v2/os/gtime"
-	"github.com/tiger1103/gfast/v3/internal/app/system/model/entity"
+	"github.com/yyr-qq/yyr-admin/v3/internal/app/system/model/entity"
 )
 
 // ToolsGenTableEx 实体扩展

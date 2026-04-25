@@ -8,7 +8,7 @@
 package service
 
 import (
-	"github.com/tiger1103/gfast-cache/cache"
+	"github.com/yyr-qq/yyr-cache/cache"
 )
 
 type ICache interface {

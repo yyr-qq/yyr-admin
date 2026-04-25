@@ -8,8 +8,8 @@
 package service
 
 import (
-	"github.com/tiger1103/gfast/v3/internal/app/mqueue/consts"
-	"github.com/tiger1103/gfast/v3/internal/app/mqueue/model"
+	"github.com/yyr-qq/yyr-admin/v3/internal/app/mqueue/consts"
+	"github.com/yyr-qq/yyr-admin/v3/internal/app/mqueue/model"
 )
 
 type IConsumer interface {

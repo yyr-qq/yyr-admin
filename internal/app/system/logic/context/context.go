@@ -9,10 +9,11 @@ package context
 
 import (
 	"context"
+
 	"github.com/gogf/gf/v2/net/ghttp"
-	"github.com/tiger1103/gfast/v3/internal/app/system/consts"
-	"github.com/tiger1103/gfast/v3/internal/app/system/model"
-	"github.com/tiger1103/gfast/v3/internal/app/system/service"
+	"github.com/yyr-qq/yyr-admin/v3/internal/app/system/consts"
+	"github.com/yyr-qq/yyr-admin/v3/internal/app/system/model"
+	"github.com/yyr-qq/yyr-admin/v3/internal/app/system/service"
 )
 
 func init() {

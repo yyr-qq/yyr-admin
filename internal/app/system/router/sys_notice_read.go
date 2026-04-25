@@ -13,7 +13,7 @@ import (
 	"context"
 
 	"github.com/gogf/gf/v2/net/ghttp"
-	"github.com/tiger1103/gfast/v3/internal/app/system/controller"
+	"github.com/yyr-qq/yyr-admin/v3/internal/app/system/controller"
 )
 
 func (router *Router) BindSysNoticeReadController(ctx context.Context, group *ghttp.RouterGroup) {

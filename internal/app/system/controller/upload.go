@@ -2,12 +2,13 @@ package controller
 
 import (
 	"context"
+
 	"github.com/gogf/gf/v2/frame/g"
-	"github.com/tiger1103/gfast/v3/api/v1/system"
-	commonConsts "github.com/tiger1103/gfast/v3/internal/app/common/consts"
-	commonService "github.com/tiger1103/gfast/v3/internal/app/common/service"
-	"github.com/tiger1103/gfast/v3/internal/app/system/consts"
-	"github.com/tiger1103/gfast/v3/internal/app/system/service"
+	"github.com/yyr-qq/yyr-admin/v3/api/v1/system"
+	commonConsts "github.com/yyr-qq/yyr-admin/v3/internal/app/common/consts"
+	commonService "github.com/yyr-qq/yyr-admin/v3/internal/app/common/service"
+	"github.com/yyr-qq/yyr-admin/v3/internal/app/system/consts"
+	"github.com/yyr-qq/yyr-admin/v3/internal/app/system/service"
 )
 
 var Upload = new(uploadController)

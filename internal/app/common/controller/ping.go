@@ -8,7 +8,7 @@
 package controller
 
 import (
-	"github.com/tiger1103/gfast/v3/library/libWebsocket"
+	"github.com/yyr-qq/yyr-admin/v3/library/libWebsocket"
 )
 
 var Ping = new(pingController)

@@ -10,14 +10,15 @@ package mqueue
 import (
 	"bytes"
 	"fmt"
-	"github.com/tiger1103/gfast/v3/internal/app/mqueue/consts"
-	"github.com/tiger1103/gfast/v3/internal/app/mqueue/logic/diskqueue"
-	_ "github.com/tiger1103/gfast/v3/internal/app/mqueue/logic/mqueue"
-	"github.com/tiger1103/gfast/v3/internal/app/mqueue/model"
-	"github.com/tiger1103/gfast/v3/internal/app/mqueue/service"
 	"sync"
 	"testing"
 	"time"
+
+	"github.com/yyr-qq/yyr-admin/v3/internal/app/mqueue/consts"
+	"github.com/yyr-qq/yyr-admin/v3/internal/app/mqueue/logic/diskqueue"
+	_ "github.com/yyr-qq/yyr-admin/v3/internal/app/mqueue/logic/mqueue"
+	"github.com/yyr-qq/yyr-admin/v3/internal/app/mqueue/model"
+	"github.com/yyr-qq/yyr-admin/v3/internal/app/mqueue/service"
 )
 
 var mBody = []byte("gfast-mqueue 测试消息队列内容")
