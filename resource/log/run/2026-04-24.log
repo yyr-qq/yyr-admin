@@ -1,0 +1,7 @@
+2026-04-24T10:53:54.641+08:00 [INFO] {329ab992632ba9185c27ae51fe6e9380} /home/yyr/go/src/gfast-mandate/internal/cmd/cmd.go:25: 
+   ____________           __ 
+  / ____/ ____/___ ______/ /_
+ / / __/ /_  / __ `/ ___/ __/
+/ /_/ / __/ / /_/ (__  ) /_  
+\____/_/    \__,_/____/\__/   Version: 3.3.11
+2026-04-24T10:53:54.670+08:00 [DEBU] /home/yyr/go/src/gfast-mandate/library/libWebsocket/init.go:20: start websocket..
