@@ -262,6 +262,8 @@ github.com/yusufpapurcu/wmi v1.2.2 h1:KBNDSne4vP5mbSWnJbO+51IMOXJB67QiYCSBrubbPR
 github.com/yusufpapurcu/wmi v1.2.2/go.mod h1:SBZ9tNy3G9/m5Oi98Zks0QjeHVDvuK0qfxQmPyzfmi0=
 github.com/yyr-qq/yyr-cache v0.0.0-20260426094227-af9bbe530344 h1:XUzTZY6WSfHnXHJU4PBJ0DmrndDELk1MTfWJGb3gW9c=
 github.com/yyr-qq/yyr-cache v0.0.0-20260426094227-af9bbe530344/go.mod h1:sHfNjM0/jtsYrfcpSEbbSs1txwZ+phu0l5Mi8zoJ9/Y=
+github.com/yyr-qq/yyr-token v0.0.0-20260426124100-1d2232e734a1 h1:a9flyQtV7/dmBxbh9oO36JT9G9uTm2ps69tcd79Xy1c=
+github.com/yyr-qq/yyr-token v0.0.0-20260426124100-1d2232e734a1/go.mod h1:Kwe8jeW0YONfok53ldOuvwjLn/Y1/8G4cPUv5SI/Nmk=
 go.opencensus.io v0.22.5 h1:dntmOdLpSpHlVqbW5Eay97DelsZHe+55D+xC6i0dDS0=
 go.opencensus.io v0.22.5/go.mod h1:5pWMHQbX5EPX2/62yrJeAkowc+lfs/XD7Uxpq3pI6kk=
 go.opentelemetry.io/auto/sdk v1.1.0 h1:cH53jehLUN6UFLY71z+NDOiNJqDdPRaXzTel0sJySYA=

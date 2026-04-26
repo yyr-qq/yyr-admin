@@ -96,6 +96,7 @@ require (
 	github.com/xuri/nfp v0.0.0-20230802015359-2d5eeba905e9 // indirect
 	github.com/yusufpapurcu/wmi v1.2.2 // indirect
 	github.com/yyr-qq/yyr-cache v0.0.0-20260426094227-af9bbe530344 // indirect
+	github.com/yyr-qq/yyr-token v0.0.0-20260426124100-1d2232e734a1 // indirect
 	go.opencensus.io v0.22.5 // indirect
 	go.opentelemetry.io/auto/sdk v1.1.0 // indirect
 	go.opentelemetry.io/otel v1.38.0 // indirect

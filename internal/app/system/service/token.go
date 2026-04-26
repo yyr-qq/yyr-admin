@@ -10,8 +10,8 @@ package service
 import (
 	"context"
 
-	"github.com//yyr-qq/yyr-token/gftoken"
 	"github.com/gogf/gf/v2/net/ghttp"
+	"github.com/yyr-qq/yyr-token/gftoken"
 )
 
 type IGfToken interface {
