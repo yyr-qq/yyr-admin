@@ -8,7 +8,7 @@
 package service
 
 import (
-	"github.com/yyr-qq/yyr-cache/cache"
+	"github.com/yyryydyyx/rs-cache/cache"
 )
 
 type ICache interface {

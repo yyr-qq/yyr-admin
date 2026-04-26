@@ -14,8 +14,8 @@ import (
 	commonModel "github.com/yyr-qq/yyr-admin/v3/internal/app/common/model"
 	"github.com/yyr-qq/yyr-admin/v3/internal/app/system/service"
 	"github.com/yyr-qq/yyr-admin/v3/library/liberr"
-	"github.com/yyr-qq/yyr-token/adapter"
-	"github.com/yyr-qq/yyr-token/gftoken"
+	"github.com/yyryydyyx/rs-token/adapter"
+	"github.com/yyryydyyx/rs-token/gftoken"
 )
 
 type sToken struct {

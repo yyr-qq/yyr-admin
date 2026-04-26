@@ -22,10 +22,10 @@ require (
 	github.com/shirou/gopsutil/v3 v3.23.2
 	github.com/sony/sonyflake v1.2.0
 	github.com/tencentyun/cos-go-sdk-v5 v0.7.34
-	github.com/yyr-qq/yyr-cache v1.0.11
-	github.com/yyr-qq/yyr-token v1.0.10
 	github.com/wenlng/go-captcha v1.2.5
 	github.com/xuri/excelize/v2 v2.7.1
+	github.com/yyryydyyx/rs-cache v1.0.11
+	github.com/yyryydyyx/rs-token v1.0.10
 	golang.org/x/net v0.43.0
 	golang.org/x/tools v0.35.0
 )
