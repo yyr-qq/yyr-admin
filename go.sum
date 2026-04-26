@@ -260,10 +260,8 @@ github.com/yuin/goldmark v1.2.1/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9dec
 github.com/yuin/goldmark v1.4.13/go.mod h1:6yULJ656Px+3vBD8DxQVa3kxgyrAnzto9xy5taEt/CY=
 github.com/yusufpapurcu/wmi v1.2.2 h1:KBNDSne4vP5mbSWnJbO+51IMOXJB67QiYCSBrubbPRg=
 github.com/yusufpapurcu/wmi v1.2.2/go.mod h1:SBZ9tNy3G9/m5Oi98Zks0QjeHVDvuK0qfxQmPyzfmi0=
-github.com/yyryydyyx/rs-cache v1.0.11 h1:YH2to7sqHeSXtgzQuNDhNH9SXLH9myACB2A/lLNgx0M=
-github.com/yyryydyyx/rs-cache v1.0.11/go.mod h1:5gaEDDuOQWVKYjaDJ55+09IwIlqbU9nIokkk8p6CEHI=
-github.com/yyryydyyx/rs-token v1.0.10 h1:3z49NHOnkfUTMXuabDD7L7ww5+9QYrxxhNDtOeEJpb0=
-github.com/yyryydyyx/rs-token v1.0.10/go.mod h1:vwhL1Fh0njdmOFULLiu163wXRox4wAZb1P/VEm+60Cc=
+github.com/yyr-qq/yyr-cache v0.0.0-20260426094227-af9bbe530344 h1:XUzTZY6WSfHnXHJU4PBJ0DmrndDELk1MTfWJGb3gW9c=
+github.com/yyr-qq/yyr-cache v0.0.0-20260426094227-af9bbe530344/go.mod h1:sHfNjM0/jtsYrfcpSEbbSs1txwZ+phu0l5Mi8zoJ9/Y=
 go.opencensus.io v0.22.5 h1:dntmOdLpSpHlVqbW5Eay97DelsZHe+55D+xC6i0dDS0=
 go.opencensus.io v0.22.5/go.mod h1:5pWMHQbX5EPX2/62yrJeAkowc+lfs/XD7Uxpq3pI6kk=
 go.opentelemetry.io/auto/sdk v1.1.0 h1:cH53jehLUN6UFLY71z+NDOiNJqDdPRaXzTel0sJySYA=

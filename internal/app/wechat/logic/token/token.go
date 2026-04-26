@@ -14,7 +14,7 @@ import (
 	commonModel "github.com/yyr-qq/yyr-admin/v3/internal/app/common/model"
 	"github.com/yyr-qq/yyr-admin/v3/internal/app/wechat/service"
 	"github.com/yyr-qq/yyr-admin/v3/library/liberr"
-	"github.com/yyryydyyx/rs-token/gftoken"
+	"github.com/yyr-qq/yyr-token/gftoken"
 )
 
 type sToken struct {

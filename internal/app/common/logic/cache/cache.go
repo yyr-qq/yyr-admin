@@ -12,8 +12,8 @@ import (
 	"github.com/gogf/gf/v2/os/gctx"
 	"github.com/yyr-qq/yyr-admin/v3/internal/app/common/consts"
 	"github.com/yyr-qq/yyr-admin/v3/internal/app/common/service"
-	"github.com/yyryydyyx/rs-cache/adapter"
-	"github.com/yyryydyyx/rs-cache/cache"
+	"github.com/yyr-qq/yyr-cache/adapter"
+	"github.com/yyr-qq/yyr-cache/cache"
 )
 
 func init() {
